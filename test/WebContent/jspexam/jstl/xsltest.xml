@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<MAIL>
+	<HEADER>
+		<RECEIVED>unico05@unitel.co.kr</RECEIVED>
+		<SENDED>david@cna.co.kr</SENDED>
+		<TITLE>XML 보충학습</TITLE>
+	</HEADER>
+	<BODY>간단한 메일 XML 문서 작성을 통해 XML 문서 작성 점검</BODY>
+</MAIL>
+
